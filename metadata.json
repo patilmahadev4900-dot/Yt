@@ -1,0 +1,6 @@
+{
+  "name": "AutoShorts",
+  "description": "Autonomous YouTube Shorts pipeline featuring Gemini AI script generation, voice prosody synthesis, audio mastering, Ken-Burns video engine, karaoke subtitles, and scheduled publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

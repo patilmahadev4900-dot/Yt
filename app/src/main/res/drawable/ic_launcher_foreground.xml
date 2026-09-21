@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Red rounded capsule for YouTube Shorts badge (Safe zone: centered around 54, 54) -->
+    <path
+        android:fillColor="#FF0033"
+        android:pathData="M44,32 C38,32 34,36 34,42 C34,46 36,49 40,51 L56,58 C60,60 62,63 62,67 C62,73 57,77 51,77 C44,77 40,73 39,68 L30,68 C31,78 39,85 51,85 C63,85 71,77 71,67 C71,61 68,57 63,55 L48,48 C45,47 43,45 43,42 C43,38 46,35 51,35 C56,35 60,38 61,43 L69,43 C68,34 61,28 51,28 C48.5,28 46.2,29.4 44,32 Z" />
+
+    <!-- Play triangle inside center -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M49,46 L62,54 L49,62 Z" />
+
+    <!-- Golden AI Sparkle Star top right -->
+    <path
+        android:fillColor="#FDE047"
+        android:pathData="M78,32 Q78,39 85,39 Q78,39 78,46 Q78,39 71,39 Q78,39 78,32 Z" />
+
+    <!-- Smaller Golden Sparkle bottom left -->
+    <path
+        android:fillColor="#FDE047"
+        android:pathData="M32,68 Q32,73 37,73 Q32,73 32,78 Q32,73 27,73 Q32,73 32,68 Z" />
+</vector>
